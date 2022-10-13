@@ -19,7 +19,7 @@
 - Python'un internetteki verilerle iletişimini sağlayan bir python modülüdür.
 
 - HTTP requests :
-    **Get** = En çok kullanılan istek türüdür. Webdeki verileri çekmenize yarar.
-    **Post** = Webdeki sunucuya veri göndermenizi sağlar.
-    **Put** = Mevcut bilgileri değiştirmenize yarar.
-    **Delete** = Bilgileri siler.
+    - **Get** = En çok kullanılan istek türüdür. Webdeki verileri çekmenize yarar.
+    - **Post** = Webdeki sunucuya veri göndermenizi sağlar.
+    - **Put** = Mevcut bilgileri değiştirmenize yarar.
+    - **Delete** = Bilgileri siler.
