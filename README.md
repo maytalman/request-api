@@ -23,3 +23,5 @@
     - **Post** = Webdeki sunucuya veri göndermenizi sağlar.
     - **Put** = Mevcut bilgileri değiştirmenize yarar.
     - **Delete** = Bilgileri siler.
+
+Request Modülünü kullanarak Covid-19 ile ilgili geliştirilmiş Api'dan veri çekerek Türkiye'nin Covid-19 bilgilerine ulaştığım ve IMDB top 250 web sitesinden veri çekerek top 250 listesini elde ettiğim notebook dosyasını ekliyorum.
